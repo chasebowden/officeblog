@@ -1,0 +1,19 @@
+.aboutme {
+  font-weight: bolder;
+  margin-left: 20px;
+  width: 70%;
+  border-style: double;
+}
+
+.blogposts {
+  margin-left: 40px;
+  width: 70%;
+  border-style: solid;
+}
+
+img {
+  width: inherit;
+  align-items: center;
+  display: block;
+  margin: 0 auto;
+}
